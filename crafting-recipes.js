@@ -1,5 +1,5 @@
 window.GTA_CRAFTING_RECIPES = {
-  6: [
+  7: [
     "Adrenaline", "Aluminumoxide", "Ammunitiekist", "Bolt", "Wire", "Glass", "Steel", "Thread",
     "Rubber", "Gunpowder", "Paint", "Copper", "Nails", "Leather", "Battery", "Oil",
     "Wood", "Stone", "Sand", "Cloth", "Cable", "Chemicals", "Torch", "Fuel",

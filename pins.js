@@ -49,10 +49,42 @@ window.GTA_MAP_PINS = [
   },
   {
     id: 7,
+    name: 'Kabouters',
+    x: 139,
+    y: 215,
+    category: 'Crafting',
+    notes: 'Kabouters verkopen en schoenendozen'
+  },
+  {
+    id: 8,
     name: 'Recycler',
-    x: 1037,
-    y: -807,
+    x: 896,
+    y: -1141,
     category: 'recycler',
     notes: 'Recycler'
+  },
+  {
+    id: 9,
+    name: 'Methlab 1',
+    x: 343,
+    y: -1910,
+    category: 'Onderwereld',
+    notes: 'Methlab 1'
+  },
+  {
+    id: 10,
+    name: 'Witwassen en flipper zero',
+    x: 485,
+    y: -2230,
+    category: 'Onderwereld',
+    notes: 'Witwassen en flipper zero'
+  },
+  {
+    id: 11,
+    name: 'Parkeerwachter',
+    x: -1329,
+    y: 790,
+    category: 'Onderwereld',
+    notes: 'Parkeerwachter'
   }
 ];
