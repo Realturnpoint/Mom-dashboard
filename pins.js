@@ -86,5 +86,13 @@ window.GTA_MAP_PINS = [
     y: 790,
     category: 'Onderwereld',
     notes: 'Parkeerwachter'
+  },
+  {
+    id: 12,
+    name: 'Methlab 2 locatie',
+    x: -464,
+    y: -1937,
+    category: 'Onderwereld',
+    notes: 'Methlab 2 locatie'
   }
 ];
